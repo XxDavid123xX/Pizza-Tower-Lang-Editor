@@ -1,2 +1,6 @@
 res://scenes/main_menu.tscn
 res://scripts/lang_folder_reader.gd
+res://scripts/main_menu.gd
+res://scenes/text_inspector/inspector.tscn
+res://scripts/text_inspector/inspector.gd
+res://scenes/text_inspector/parameter.tscn

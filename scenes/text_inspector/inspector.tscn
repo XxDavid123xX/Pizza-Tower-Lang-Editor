@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://b2dgdtkme87a3"]
+
+[ext_resource type="Script" uid="uid://ekv8dpbetemt" path="res://scripts/text_inspector/inspector.gd" id="1_i2lij"]
+
+[node name="Inspector" type="ScrollContainer" unique_id=2108266034]
+custom_minimum_size = Vector2(200, 0)
+anchors_preset = 9
+anchor_bottom = 1.0
+grow_vertical = 2
+script = ExtResource("1_i2lij")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1489845673]
+layout_mode = 2
+size_flags_horizontal = 3
