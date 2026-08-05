@@ -4,7 +4,6 @@ class_name TextInspector
 
 @export_global_file("*.txt") var path : String
 
-
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	pass # Replace with function body.
